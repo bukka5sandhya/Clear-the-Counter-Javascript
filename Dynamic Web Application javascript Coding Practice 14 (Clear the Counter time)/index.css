@@ -1,0 +1,10 @@
+.heading{
+    font-family: 'Roboto';
+    font-size:24px;
+}
+.counter-value{
+    color:#000000;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size:35px;
+}
